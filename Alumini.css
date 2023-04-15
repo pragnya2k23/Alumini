@@ -1,0 +1,20 @@
+.container{
+    margin: 30px;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 18px;
+}
+.head{
+    padding: 10px;
+    font-style: italic;
+}
+.text{
+    margin: 5px;
+    padding: 5px;
+    font-style: italic;
+}
+
+img{
+    height: 320px;
+    width: 240px;
+}
